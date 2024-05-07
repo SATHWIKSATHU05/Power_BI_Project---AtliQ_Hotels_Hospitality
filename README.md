@@ -1,4 +1,4 @@
-s![AtliQ Hotels Intro Page](https://github.com/SATHWIKSATHU05/Power_BI_Project---AtliQ_Hotels_Hospitality/assets/169009977/9a9feb96-2404-4053-8f2d-054884ad38de)
+![AtliQ Hotels Intro Page](https://github.com/SATHWIKSATHU05/Power_BI_Project---AtliQ_Hotels_Hospitality/assets/169009977/9a9feb96-2404-4053-8f2d-054884ad38de)
 
 
 AtliQ Hotels Hospitality Insights
@@ -7,7 +7,7 @@ Provide Hospitality insights
 
 Problem Statement:
 
-AtliQ Hotels owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Hotels are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Hotel wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+AtliQ Hotels owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Hotels are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Hotels wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
 
 
 Tech Stacks:
